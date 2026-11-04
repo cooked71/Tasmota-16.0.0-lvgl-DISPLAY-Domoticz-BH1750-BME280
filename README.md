@@ -1,5 +1,4 @@
-# Tasmota 16.0.0 lvgl-haspmota + Domoticz + BH1750 + GY-302
-
+# Tasmota 16.0.0 lvgl (DISPLAY)+ Domoticz + BH1750 +  BME280
 
 Build ESP32-D0WD, ambiente PlatformIO `tasmota32-lvgl`, sorgente Tasmota v16.0.0.
 
