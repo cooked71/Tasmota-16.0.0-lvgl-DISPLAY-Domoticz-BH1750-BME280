@@ -8,3 +8,4 @@ Modifica in `tasmota/include/tasmota_configurations_ESP32.h`, nel blocco `#ifdef
 
 Compilazione: `pio run -e tasmota32-lvgl` (circa 10 minuti la prima volta).
 Aggiornamento: OTA con `tasmota32-lvgl.bin`, non il factory.
+display + domoticz + GY-302
